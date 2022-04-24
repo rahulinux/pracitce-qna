@@ -1,1 +1,1 @@
-# pracitce-qna
+# practice-qna
